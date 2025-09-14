@@ -1,0 +1,7 @@
+joblib==1.4.2
+huggingface_hub==0.23.0
+pandas==2.2.2
+scikit-learn==1.5.1
+datasets==2.20.0
+xgboost==2.0.3
+gradio==4.38.1
